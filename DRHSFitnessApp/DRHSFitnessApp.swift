@@ -2,7 +2,6 @@
 //  DRHSFitnessAppApp.swift
 //  DRHSFitnessApp
 //
-//  Created by Rish on 3/22/26.
 //
 
 import SwiftUI
