@@ -2,7 +2,6 @@
 //  Official Web View.swift
 //  DRHSFitnessApp
 //
-//  Created by Rish on 3/30/26.
 //
 
 import Foundation
@@ -10,7 +9,6 @@ import Foundation
 //  WebView.swift
 //  DRHSFitnessApp
 //
-//  Created by Rish on 3/22/26.
 //
 import SwiftUI
 import WebKit
